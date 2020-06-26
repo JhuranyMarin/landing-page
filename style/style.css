@@ -1,0 +1,122 @@
+body{
+    background-color: black;
+font-family: 'Courier New';
+    
+    
+}
+
+
+.card{
+    display: flex;
+    justify-content: center;
+}
+
+
+  .contacto{
+    background-color: #DAA520;
+    color: black;
+   
+    align-items: center;
+    display: flex;
+    justify-content:space-between;
+    
+    
+    
+}
+
+  .link-social{
+  
+    width: 40px;
+    height: 40px;
+   display: inline-block;
+   
+    
+
+
+}
+p{
+  align-items: center;
+}
+
+.link-social.facebook{
+    background-size: 40px 40px;
+    background-image: url("https://img.icons8.com/ios-glyphs/30/000000/facebook-circled.png");
+   
+}
+
+.link-social.instagram{
+    background-size: 38px 38px;
+   background-image: url("https://img.icons8.com/material-rounded/24/000000/instagram-new.png");
+ 
+}
+
+  .form-control{
+    border-color: black; 
+background-color: gray;
+
+  
+
+}
+
+.btn{
+    display:block;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    padding: 10px 0;
+    margin-top: 10px;
+    height: 40px;
+    
+    }
+    .form-text {
+
+       color: black; 
+    }
+
+  
+    
+      .footer{
+        background-color: black;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       text-align: center;
+       
+      
+       
+      }
+
+      h1{
+          color:#DAA520;
+          
+          text-align: center;
+      }
+
+      #mujer{
+        color: black;
+        text-align: center;
+        background-color: #ff70a6;
+      }
+
+    #hombre{
+
+        color: black;
+          text-align: center;
+          background-color: #70d6ff;
+      
+    }
+
+    #tamaño{
+
+        color: black;
+          text-align: center;
+          background-color: #ffd670;
+    }
+
+    h2{
+      color: #DAA520;
+      text-align: center;
+    }
+     
